@@ -1,8 +1,14 @@
 Push Details:
-- Ref: refs/heads/main
-- Before SHA: 0801bcc762769d2696be69c36c3388cebf926bd4
-- After SHA: 15e04a1b8623bfa7ed5bc315d1c38b08e8ced74c
-- Pusher: shikharmgautam
-- Commit Message: Add info.txt with push details
-- Commit URL: https://github.com/shikharmgautam/Lockandtrigger/commit/15e04a1b8623bfa7ed5bc315d1c38b08e8ced74c
-- Compare URL: https://github.com/shikharmgautam/Lockandtrigger/compare/0801bcc76276...15e04a1b8623
+
+Repository: shikharmgautam/Lockandtrigger
+Branch: main
+Compare URL: https://github.com/shikharmgautam/Lockandtrigger/compare/c982e9e8ae2b...7efc19406193
+
+Commit Details:
+- SHA: 7efc194061933d65a65e63db4fe8cb8d986155ab
+- Author: Shikhar Mohan Gautam
+- Committer: GitHub
+- Commit Message: Update eslint.config.mjs
+- Commit URL: https://github.com/shikharmgautam/Lockandtrigger/commit/7efc194061933d65a65e63db4fe8cb8d986155ab
+- Timestamp: 2026-02-13T17:40:05+05:30
+- Modified: eslint.config.mjs
