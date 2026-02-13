@@ -1,8 +1,7 @@
-Push Details:
-- Repository: shikharmgautam/Lockandtrigger
-- Branch: main
-- Commit: 76f854f95007d52631b3c15bfe2bb61d34509b84
-- Commit Message: Format test function for consistency
-- Author: Shikhar Mohan Gautam
-- Timestamp: 2026-02-13T17:13:59+05:30
-- Modified Files: eslint.config.mjs
+Repository Name: Lockandtrigger
+Branch: main
+Push By: shikharmgautam
+Commit ID: be5fb44cdcf48edcf21b20b062c3cd9aded397fe
+Commit Message: Add info.txt with push details
+Commit URL: https://github.com/shikharmgautam/Lockandtrigger/commit/be5fb44cdcf48edcf21b20b062c3cd9aded397fe
+Timestamp: 2026-02-13T17:14:08+05:30
