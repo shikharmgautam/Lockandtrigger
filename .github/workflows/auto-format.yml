@@ -1,0 +1,40 @@
+name: Auto-Format
+
+on:
+  push:
+    branches:
+      - auto/format
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run Prettier
+      run: npx prettier --write .
+
+    - name: Run ESLint
+      run: npx eslint --fix . --ext .js,.jsx,.ts,.tsx
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "Automated Bot"
+        git config --global user.email "bot@example.com"
+        git commit -am "Auto: Format code [skip ci]"
+
+    - name: Push changes
+      run: git push
