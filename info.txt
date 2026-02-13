@@ -1,7 +1,9 @@
-Repository Name: Lockandtrigger
+Push Details:
 Branch: main
-Push By: shikharmgautam
-Commit ID: be5fb44cdcf48edcf21b20b062c3cd9aded397fe
-Commit Message: Add info.txt with push details
-Commit URL: https://github.com/shikharmgautam/Lockandtrigger/commit/be5fb44cdcf48edcf21b20b062c3cd9aded397fe
-Timestamp: 2026-02-13T17:14:08+05:30
+Before SHA: 845b6a2db99441bf0a15461d6ceda9ef9993497a
+After SHA: 75c2c9c531e4b50cab281ea5ab63ec591eb90991
+Commit Message: Refactor test function formatting\n\nAdjust formatting of the test function for consistency.
+Commit URL: https://github.com/shikharmgautam/Lockandtrigger/commit/75c2c9c531e4b50cab281ea5ab63ec591eb90991
+Author: Shikhar Mohan Gautam
+Date: 2026-02-13T17:16:02+05:30
+Modified Files: eslint.config.mjs
